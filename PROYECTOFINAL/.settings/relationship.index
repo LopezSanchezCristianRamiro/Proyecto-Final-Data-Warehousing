@@ -1,0 +1,336 @@
+[ {
+  "baseItem" : {
+    "id" : "_01Vm8ChXEe-cGuL6cZ007w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tZDqUChREe-X3bsCHt_xrA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tZDqUChREe-X3bsCHt_xrA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_E0zQICrQEe-ib7mIJK5zkw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ - METODOENVIO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - METODOENVIO",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_HN840CrQEe-ib7mIJK5zkw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ - PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_IU4UACWTEe-yHMTlYvIf_w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tZDqUChREe-X3bsCHt_xrA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_tZDqUChREe-X3bsCHt_xrA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Jo7GcCrQEe-ib7mIJK5zkw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ - SEGMENTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - SEGMENTO",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Jp7UYCrCEe-EtL89tbXNWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ - VENTAS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - CLIENTE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - FECHA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - METODOENVIO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - SEGMENTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - VENTAS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_OtQYcCrPEe-ib7mIJK5zkw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ - FECHA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - FECHA",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_UUmdoCreEe-ib7mIJK5zkw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ - VENTAS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - CLIENTE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - FECHA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - METODOENVIO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - SEGMENTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - VENTAS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_cxgn4CWhEe-sDsWsljwI8w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_h2jSoChgEe-cGuL6cZ007w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_h2jSoChgEe-cGuL6cZ007w - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_f-YiACrPEe-ib7mIJK5zkw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fh3zsCqkEe-EtL89tbXNWQ - CLIENTE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - CLIENTE",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_pzmCsChVEe-cGuL6cZ007w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tZDqUChREe-X3bsCHt_xrA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tZDqUChREe-X3bsCHt_xrA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_vzYlcChWEe-cGuL6cZ007w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tZDqUChREe-X3bsCHt_xrA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tZDqUChREe-X3bsCHt_xrA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_zj3iYCqkEe-EtL89tbXNWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - CLIENTE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - FECHA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - METODOENVIO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - SEGMENTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gzlP0CWZEe-yHMTlYvIf_w - VENTAS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+alter session set “_ORACLE_SCRIPT”=true;
+
+CREATE USER dmCaniador
+  IDENTIFIED BY VALUES '252F42DA0C05A7DB'
+  DEFAULT TABLESPACE users
+  TEMPORARY TABLESPACE TEMP
+  PROFILE DEFAULT
+  ACCOUNT UNLOCK;
+
+  GRANT RESOURCE TO dmCaniador;
+  GRANT CONNECT TO dmCaniador;
+GRANT dba TO dmCaniador;
+ GRANT UNLIMITED TABLESPACE TO dmCaniador;
+  ALTER USER dmCaniador DEFAULT ROLE ALL;
+
+
+alter user dmCaniador identified by univalle;
+
+CREATE USER stCaniador
+  IDENTIFIED BY VALUES '252F42DA0C05A7DB'
+  DEFAULT TABLESPACE users
+  TEMPORARY TABLESPACE TEMP
+  PROFILE DEFAULT
+  ACCOUNT UNLOCK;
+
+  GRANT RESOURCE TO stCaniador;
+  GRANT CONNECT TO stCaniador;
+GRANT dba TO stCaniador
+ GRANT UNLIMITED TABLESPACE TO stCaniador;
+  ALTER USER stCaniador DEFAULT ROLE ALL;
+
+alter user stCaniador identified by univalle;
